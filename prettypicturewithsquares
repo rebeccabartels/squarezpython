@@ -1,0 +1,13 @@
+square_size = 100
+
+# sprite = codesters.Square(x, y, width, "color")
+square1 = codesters.Square(-150, -50, square_size, "red")
+
+# sprite = codesters.Square(x, y, width, "color")
+square2 = codesters.Square(-50, 50, square_size, "orange")
+
+# sprite = codesters.Square(x, y, width, "color")
+square3 = codesters.Square(50, -50, square_size, "yellow")
+
+# sprite = codesters.Square(x, y, width, "color")
+square4 = codesters.Square(150, 50, square_size, "green")
